@@ -1,4 +1,4 @@
-file_path = '/Users/charanjeetsingh/Documents/PythonProjects/Python_ Experiments/ToDo/Todos.txt'
+file_path = 'Todos.txt'
 
 
 def get_todos(file_name=file_path):
